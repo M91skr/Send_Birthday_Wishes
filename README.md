@@ -21,7 +21,7 @@ You can run this code in the cloud, defined for that daily task, and enjoy your 
 run following:
 ```bash
 python -m venv env
-. env/bin/activate
+source env/bin/activate
 pip install -r requirements.txt
 python main.py
 ```
